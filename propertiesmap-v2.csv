@@ -1,0 +1,40 @@
+Orientation,Temperature_1[°C],Temp-Time_1[h],Temperature_2[°C],Temp-Time_2[h],Temp-Info_1,Temp-Info_2,E_Mpa,E_Mpa_Error,Yield_Mpa,Yield_Mpa_Error,UTS_Mpa,UTS_Mpa_Error,Ductility_Percentage,Ductility_Percentage_Error,Pointnumber,Reference,DOI,Direction,Year,Laser_power,Laser_type,Hatching_speed,Hatching_strategy,Hatching_rotation,post_processing
+Transverse,100,,,,during build,,,,,,1314.9,15.6,4,1.2,1,\parencite{leuders_fatigue_2014},,XY,2014,,,,,,Example 1
+Transverse,200,,,,during build,,,,1106,6,,,11.4,0.4,2,\parencite{xu_additive_2015},,XY,2015,,,,,,Example 2
+Longitudinal,540,5,,,plus water quench,,112.6,30.2,1118,39,1223,52,5.36,2.02,3,\parencite{vrancken_heat_2012},,Z,2012,,,,,,Example 3
+Longitudinal,640,4,,,,,,,1104,8,1225,4,7.4,1.6,4,\parencite{mertens_mechanical_2014},,Z,2014,,,,,,Example 4
+Longitudinal,,,,,,,,,1140,43,1214,24,3.2,2,5,\parencite{mertens_mechanical_2014},,Z,2014,,,,,,Example 5
+Transverse,,,,,,,,,1152,11,1256,9,3.9,1.2,6,\parencite{mertens_mechanical_2014},,XY,2014,,,,,,Example 6
+Transverse,700,,,,during build,,,,850,,940,,6.5,,7,\parencite{koike_evaluation_2011},,XY,2011,,,,,,Example 7
+Transverse,700,1,,,cool at 10°C/min,,117.4,,1051,,1115,,11.3,,8,\parencite{kasperovich_improvement_2015},,XY,2015,,,,,,Example 8
+Longitudinal,705,3,,,air cool,,114.6,2.2,1026,35,1082,34,9.04,2.03,9,\parencite{vrancken_heat_2012},,Z,2012,,,,,,Example 9
+Longitudinal,730,2,,,air cool,,101,4,965,16,1046,6,9.5,1,10,\parencite{vilaro_as-fabricated_2011},,Z,2011,,,,,,Example 10
+Transverse,,,,,,,110,29,900,101,1000,53,1.9,0.8,11,\parencite{vilaro_as-fabricated_2011},,XY,2011,,,,,,Example 11
+Transverse,800,2,,,,,,,962,,1040,,5,,12,\parencite{leuders_mechanical_2013} ,,XY,2013,,,,,,Example 12
+Transverse,800,2,,,in argon,,,,,,1228.1,32.4,8,1.5,13,\parencite{leuders_fatigue_2014},,XY,2014,,,,,,Example 13
+Longitudinal,800,4,,,in argon,,116,10,860,,930,,10,,14,\parencite{}  ,,Z,,,,,,,Example 14
+Transverse,,,,,,,114,10,860,,930,,10,,15,\parencite{}  ,,XY,,,,,,,Example 15
+Longitudinal,850,2,,,furnace cool,,114.7,3.6,955,6,1004,6,12.84,1.36,16,\parencite{vrancken_heat_2012},,Z,2012,,,,,,Example 16
+Longitudinal,850,5,,,furnace cool,,112,3.4,909,24,965,20,,,17,\parencite{vrancken_heat_2012},,Z,2012,,,,,,Example 17
+Transverse,900,2,700,1,10°C/min cool,,118.8,,908,,988,,9.5,,18,\parencite{kasperovich_improvement_2015},,XY,2015,,,,,,Example 18
+Longitudinal,940,1,650,2,air cool,air cool,115.5,2.4,899,27,948,27,13.59,0.32,19,\parencite{vrancken_heat_2012},,Z,2012,,,,,,Example 19
+Longitudinal,950,0.5,,,,,118,2.3,960,19,1042,20,13,0.6,20,\parencite{hollander_structural_2006}  ,,Z,2006,,,,,,Example 20
+Longitudinal,950,1,700,2,water 1quench,air cool,103,11,944,8,1036,30,8.5,1,21,\parencite{vilaro_as-fabricated_2011},,Z,2011,,,,,,Example 21
+Transverse,,,,,,,98,3,925,14,1040,4,7.5,2,22,\parencite{vilaro_as-fabricated_2011},,XY,2011,,,,,,Example 22
+Transverse,1000,1,,,furnace cool 4h,,,,826.87,,945.85,,12.67,,23,\parencite{}  ,,XY,,,,,,,Example 23
+Transverse,1000,1,,,furnace cool 34h,,,,804.77,,908.63,,18.11,,24,\parencite{}  ,,XY,,,,,,,Example 24
+Longitudinal,,,,,,,,,835,5,915,5,10.6,0.6,25,\parencite{facchini_ductility_2010}  ,,Z,2010,,,,,,Example 25
+Longitudinal,,,,,,,117,1,870,15,990,15,11,0.5,26,\parencite{facchini_ductility_2010}  ,,Z,2010,,,,,,Example 26
+Longitudinal,1020,2,,,furnace cool,,114.7,0.9,760,19,840,27,14.06,2.53,27,\parencite{vrancken_heat_2012},,Z,2012,,,,,,Example 27
+Transverse,1050,2,,,in vacuum,,,,,,986.4,45.2,13.8,0.8,28,\parencite{leuders_fatigue_2014}  ,,XY,2014,,,,,,Example 28
+Transverse,1050,2,,,,,,,798,,945,,11.6,,29,\parencite{leuders_mechanical_2013}  ,,XY,2013,,,,,,Example 29
+Longitudinal,1015,0.5,730,2,air cool,air cool,112.8,2.9,822,25,902,19,12.74,0.56,30,\parencite{vrancken_heat_2012},,Z,2012,,,,,,Example 30
+Longitudinal,1015,0.5,843,2,air cool,furnance cool,114.9,1.5,801,20,874,23,13.45,1.18,31,\parencite{vrancken_heat_2012},,Z,2012,,,,,,Example 31
+Longitudinal,1050,1,820,2,ater quench,air cool,96.7,5,913,7,1019,11,8.9,1,32,\parencite{vilaro_as-fabricated_2011},,Z,2011,,,,,,Example 32
+Transverse,,,,,,,95,4,869,64,951,55,7.9,2,33,\parencite{vilaro_as-fabricated_2011},,XY,2011,,,,,,Example 33
+Transverse,900,2,700,1,100Mpa,10°C/min cool,115.4,4,885,,973,,19,,34,\parencite{kasperovich_improvement_2015},,XY,2015,,,,,,Example 34
+Transverse,920,2,,,100Mpa,,,,912,,1005,,8.3,,35,\parencite{leuders_mechanical_2013}  ,,XY,2013,,,,,,Example 35
+Transverse,920,2,,,100Mpa,,,,,,1088.5,26.3,13.8,1.3,36,\parencite{leuders_fatigue_2014}  ,,XY,2014,,,,,,Example 36
+Longitudinal,600-700,2,920,,furnace cool,,,,1000,60,1100,50,12.5,0.5,37,\parencite{qiu_microstructure_2013}  ,,Z,2013,,,,,,Example 37
+Transverse,600-700,2,920,4,furnace cool,130Mpa furnance cool,,,930,,1020,,15.5,2,38,\parencite{qiu_microstructure_2013}  ,,XY,2013,,,,,,Example 38
+Transverse,1050,2,,,100Mpa,,,,,,1006.8,14.6,13.5,0.7,39,\parencite{leuders_fatigue_2014}  ,,XY,2014,,,,,,Example 39
