@@ -29,6 +29,11 @@ df = pd.read_csv('propertiesmap-v2.csv')
 # Initialise the app
 app = dash.Dash(__name__)
 
+# Associating server
+server = app.server
+app.title = 'matdat - UNIBW'
+app.config.suppress_callback_exceptions = True
+
 #Compare Options for graphselector
 all_options = {
     'Ductility_VS_Yield': ['Ductility_Percentage', 'Yield_Mpa'],
