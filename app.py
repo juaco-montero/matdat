@@ -77,7 +77,7 @@ def update_info_table():
 
 # Define the app
 app.layout = html.Div(children=[
-                    html.H1(children='Material Data',style={'textAlign': 'left', 'color': '#ffbc03'}),
+                    html.H1(children='Laser Powder Bed Fusion Material Properties',style={'textAlign': 'left', 'color': '#ffbc03'}),
                #     html.P('''Developed by Christoph Jahnke'''),
                       html.Div(className='row',  # Define the row element
                                children=[
