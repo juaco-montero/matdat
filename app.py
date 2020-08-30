@@ -127,7 +127,7 @@ def update_main_graph(selected_dropdown_value, errorselect):
             paper_bgcolor='rgba(0, 0, 0, 0)',
             plot_bgcolor='rgba(0, 0, 0, 0)',
             margin={'b': 15},
-            hovermode='x',
+         #   hovermode='x',
             autosize=True,
             ))
     figure.update_xaxes(title=f'{all_options[selected_dropdown_value][0]}')
